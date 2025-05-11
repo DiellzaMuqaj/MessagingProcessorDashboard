@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "MessagingProcessor.WebUI/1.0.0": {
+        "runtime": {
+          "MessagingProcessor.WebUI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MessagingProcessor.WebUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
